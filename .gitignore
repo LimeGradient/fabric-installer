@@ -2,3 +2,8 @@ fabric-installer.exe
 fabric-installer.spec
 .DS_Store
 build/
+build/fabric-installer/
+osx/
+dist/
+*.exe
+*.zip
