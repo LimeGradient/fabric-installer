@@ -1,3 +1,4 @@
-build/
 fabric-installer.exe
+fabric-installer.spec
 .DS_Store
+build/
